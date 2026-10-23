@@ -1,0 +1,13 @@
+order_id,order_line_id,order_date,customer_id,city,product_category,product_name,quantity,unit_price_pkr,discount_pct,payment_method,order_status,delivery_days,sales_channel,error_reason
+8035,50045,,C1076,Faisalabad,Electronics,Usb-C Hub,1.0,4333.1,0.1,Bank Transfer,Delivered,1.0,Marketplace,Missing Order Date
+8078,50104,,C1092,Faisalabad,Fashion,Cotton T-Shirt,1.0,1631.95,0.05,Card,Delivered,2.0,Website,Missing Order Date
+8117,50167,,C1007,Lahore,Beauty,Hair Dryer,2.0,5271.77,0.2,Wallet,Delivered,2.0,Marketplace,Missing Order Date
+8160,50229,,C1109,Peshawar,Home & Kitchen,Air Fryer,1.0,18462.01,0.05,Wallet,Delivered,5.0,Marketplace,Missing Order Date
+8022,50027,2026-08-17,C1014,Hyderabad,Beauty,Hair Dryer,0.0,4906.63,0.0,Cod,Delivered,1.0,Website,Invalid Quantity (Zero)
+8047,50064,2026-07-29,C1004,Peshawar,Sports,Yoga Mat,,2281.23,0.05,Wallet,Cancelled,,Website,Null Quantity Found
+8125,50179,2026-08-16,C1075,Karachi,Books,Python Programming Book,2.0,0.0,0.05,Bank Transfer,Delivered,5.0,Marketplace,Zero Unit Price
+8038,50049,2026-10-06,C1074,Rawalpindi,Electronics,Usb-C Hub,4.0,,0.0,Wallet,Delivered,5.0,Marketplace,Null Unit Price
+8224,50316,2026-08-02,C1059,Peshawar,Books,Python Programming Book,2.0,,0.2,Wallet,Shipped,,Mobile App,Null Unit Price
+8064,50086,2026-10-16,C1032,Hyderabad,Home & Kitchen,Electric Kettle,3.0,3660.64,,Wallet,Returned,1.0,Marketplace,Null Discount
+8060,50082,2026-08-30,C1054,Rawalpindi,Home & Kitchen,Air Fryer,4.0,19333.49,1.5,Cod,Processing,,Marketplace,Discount Greater Than 100%
+8076,50101,2026-09-30,C1078,Peshawar,Electronics,Wireless Mouse,2.0,1750.0,0.0,Card,Delivered,5.0,Marketplace,Duplicate Order Line ID (PK Conflict)
