@@ -68,7 +68,7 @@ order_id,order_line_id,order_date,customer_id,city,product_category,product_name
 8052,50072,2026-07-22,C1020,Hyderabad,Sports,Yoga Mat,1.0,2152.35,0.0,Wallet,Delivered,,Marketplace
 8053,50073,2026-09-04,C1030,Lahore,Sports,Yoga Mat,3.0,2167.73,0.2,Cod,Delivered,6,Website
 8054,50074,2026-08-13,C1064,Islamabad,Beauty,Face Moisturizer,3.0,1571.52,0.1,Card,Delivered,5,Website
-8055,50075,2026-07-23,C1090,Islamabad,Fashion,Cotton T-Shirt,1.0,1693.58,0.1,Cod,Shippd,,Mobile App
+8055,50075,2026-07-23,C1090,Islamabad,Fashion,Cotton T-Shirt,1.0,1693.58,0.1,Cod,Shipped,,Mobile App
 8056,50076,2026-07-17,C1048,Karachi,Electronics,Wireless Mouse,2.0,1792.48,0.0,Wallet,Delivered,6,Website
 8056,50077,2026-07-17,C1048,Karachi,Sports,Yoga Mat,1.0,2206.05,0.2,Wallet,Delivered,3,Website
 8057,50078,2026-03-09,C1053,Faisalabad,Books,Python Programming Book,2.0,3434.82,0.1,Wallet,Cancelled,,Mobile App
@@ -108,7 +108,7 @@ order_id,order_line_id,order_date,customer_id,city,product_category,product_name
 8086,50115,2026-08-26,C1051,Karachi,Books,Business Analytics Book,2.0,2834.79,0.1,Wallet,Shipped,,Marketplace
 8087,50116,2026-10-01,C1027,Lahore,Electronics,Wireless Mouse,1.0,1847.38,0.0,Card,Shipped,,Website
 8087,50117,2026-10-01,C1027,Lahore,Home & Kitchen,Air Fryer,3.0,18385.38,0.2,Card,Shipped,,Website
-8088,50118,2026-08-22,C1040,Hyderabad,Electornics,Bluetooth Speaker,1.0,4914.33,0.0,Bank Transfer,Returned,3,Mobile App
+8088,50118,2026-08-22,C1040,Hyderabad,Electronics,Bluetooth Speaker,1.0,4914.33,0.0,Bank Transfer,Returned,3,Mobile App
 8089,50119,2026-10-03,C1100,Peshawar,Fashion,Cotton T-Shirt,2.0,1560.14,0.1,Card,Shipped,,Marketplace
 8089,50120,2026-10-03,C1100,Peshawar,Fashion,Backpack,1.0,4057.55,0.0,Card,Shipped,,Marketplace
 8089,50121,2026-10-03,C1100,Peshawar,Beauty,Hair Dryer,1.0,4728.83,0.15,Card,Shipped,,Marketplace
@@ -297,7 +297,7 @@ order_id,order_line_id,order_date,customer_id,city,product_category,product_name
 8216,50307,2026-09-06,C1134,Rawalpindi,Books,Business Analytics Book,1.0,2788.0,0.2,Bank Transfer,Cancelled,,Mobile App
 8217,50308,2026-09-19,C1014,Multan,Home & Kitchen,Electric Kettle,3.0,3590.9,0.05,Bank Transfer,Delivered,5,Mobile App
 8218,50309,2026-10-07,C1069,Rawalpindi,Books,Python Programming Book,1.0,2999.77,0.1,Card,Delivered,1,Mobile App
-8219,50310,2026-07-22,C1011,Islamabad,Fashion,Running Shoes,4.0,8245.85,0.15,Wallet,Canceled,4,Website
+8219,50310,2026-07-22,C1011,Islamabad,Fashion,Running Shoes,4.0,8245.85,0.15,Wallet,Cancelled,4,Website
 8220,50311,2026-08-01,C1131,Rawalpindi,Electronics,Bluetooth Speaker,4.0,5139.23,0.0,Cod,Processing,,Mobile App
 8220,50312,2026-08-01,C1131,Rawalpindi,Home & Kitchen,Electric Kettle,1.0,3535.48,0.15,Cod,Processing,,Mobile App
 8221,50313,2026-10-20,C1045,Islamabad,Home & Kitchen,Storage Box,5.0,938.74,0.2,Cod,Delivered,2,Website
